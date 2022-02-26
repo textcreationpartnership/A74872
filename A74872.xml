@@ -1,0 +1,357 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters that passed between Mr. Baxter and Mr. Tombes concerning the dispute.</title>
+            <author>Baxter, Richard, 1615-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74872</idno>
+            <idno type="STC">Thomason E659_9</idno>
+            <idno type="EEBO-CITATION">50805968</idno>
+            <idno type="OCLC">ocm 50805968</idno>
+            <idno type="VID">166115</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74872)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166115)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 101:E659[9c])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Letters that passed between Mr. Baxter and Mr. Tombes concerning the dispute.</title>
+                  <author>Baxter, Richard, 1615-1691.</author>
+                  <author>Tombes, John, 1603?-1676.</author>
+                  <author>Baxter, Richard, 1615-1691. Plain Scripture proof of infants church-membership and baptism.</author>
+               </titleStmt>
+               <extent>p. 404-415.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year 1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Originally part of: Plain Scripture proof of infants church-membership and baptism / by Richard Baxter.</note>
+                  <note>Reproduction of original in: British Library.</note>
+                  <note>With: A friendly accomodation in the fore-debated controversie between Mr. Bedford and the author. London : [s.n.], Printed, anno dom. 1652 -- Praefestinantis morator. Or Mr. Tombs his præcursor. London, : [s.n.], Printed in the year, 1652.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Infant baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166115:1" rendition="simple:additions"/>
+            <p>LETTERS That paſſed between M<hi rend="sup">r</hi>. <hi>BAXTER</hi> AND M<hi rend="sup">r</hi>. <hi>TOMBES</hi> Concerning the Diſpute.</p>
+            <p>LONDON, Printed in the Year 1652.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb n="404" facs="tcp:166115:2"/>
+            <p>IT goes againſt my mind to trouble the Reader with theſe following Letters between Mr. <hi>T.</hi> and me. But his Re<g ref="char:EOLhyphen"/>lations have made it neceſſary, that it may appear, Whe<g ref="char:EOLhyphen"/>ther all my endeavour was not to keep off, if poſsibly I could, from appearing againſt him in this Cauſe in writing; nor did I ever deſire the Diſpute but meerly to ſhift off wri<g ref="char:EOLhyphen"/>ting, when his followers drove me on to it: and had far rather have been quiet from both: but it was beyond my power to attain it without the betraying the truth. For I diſcerned a ſtrong probability of his Deſign was to have got ſomething from me, and then have publiſhed his anſwer to it (which he now denyes not,) as ſuperficially as he did by others; or elſe have forced me to diſclaim the conteſt, that ſo it might be carryed abroad either that I was confu<g ref="char:EOLhyphen"/>ted, or that I durſt not diſpute it. After his Followers had earneſtly preſſed me to write my Arguments, and I to put it by, had told them I thought verbal diſputing more con<g ref="char:EOLhyphen"/>venient, if they muſt needs have one, this following I re<g ref="char:EOLhyphen"/>ceived from Mr. <hi>Tombes.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="letter">
+               <pb n="405" facs="tcp:166115:2"/>
+               <head>For my Reverend and much Honoured Brother M<hi rend="sup">r</hi>. <hi>Richard Baxter</hi> at <hi>Kidderminſter,</hi> theſe.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg> Perceive by ſome ſpeech with <hi>Philip Munne,</hi> that you propound a diſ<g ref="char:EOLhyphen"/>puting the point in difference between me and you about Infant-baptiſm in ſome open way of ſpeech, and to have me declare my ar<g ref="char:EOLhyphen"/>guments againſt it. Open diſpute by words for a great number of reaſons I affect not: my affairs, and the ſtate of your body and bu<g ref="char:EOLhyphen"/>ſineſs are likely to make it uncertain, and to protract the time: my Arguments are to be ſeen in my Writings. This is in effect my plea againſt it, that it is Will-worſhip, becauſe not appointed by God. The moſt expedite and ſureſt way I conceive to bring the controverſie to an iſſue, for you in a Syllogiſm or two written by you to produce what Medium you have to prove a Divine inſtitution of Pedo-baptiſm, which being written may the better be examined; verbal con<g ref="char:EOLhyphen"/>ference, is leſs deliberate, and more unſatisfactory. If you cannot your ſelf write, <hi>if you ſhew in a printed Author the beſt Argument you know for it, it may perhaps ſerve the turn as well.</hi> I leave it to your ſelf to do as you ſee good, and reſt</p>
+               <closer>
+                  <dateline>
+                     <hi>Bewdley,</hi> 
+                     <date>Sept. <hi>2. 1649.</hi>
+                     </date>
+                  </dateline>
+                  <signed>Your loving Brother and Fellow ſervant in Chriſt <hi>John Tombes.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>To my Reverend and much valued friend Mr. <hi>Tombes,</hi> Preacher of the Goſpel at <hi>Bewdley.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THough your people my neighbours have much room in my affections, and I heartily deſire their unity and ſtedfaſtneſs: yet do not think that I have a mind to take upon me to be their Teacher, and to play the Biſhop in your Dioceſs, much leſs to be ſo rude as to challenge you to a Diſpute. But ſome of your people having been ſeverall times ſolliciting me to do ſomething towards the determining of this controverſie, I ſtil told them that I thought a diſpute the fitteſt way; but they told me that you refuſed it. The meſſenger that came on Saturday, came on the like errand, and before I underſtood that he came with your conſent and privity, I told him I would do nothing without a
+<pb n="406" facs="tcp:166115:3"/>call from more of your people, and without your conſent. The offer I made to him I now make again to you: that if to you or your people a debate ſeem neceſſary and deſireable, (for I or my people do not deſire it much, but affect quietneſs) I ſhall (if God enable me) ſpend a day or two in publick conference with you (as far as my ſtrength will bear.) 2 Or if you ſo abſolutely refuſe that, that there is no hopes of it, I offer, that if you will preach two Sermons againſt it, and I two for it, and ſo let fall the debate, and leave it to the peoples judgment, I ſhall agree to it. 3 If you abſolute<g ref="char:EOLhyphen"/>ly refuſe both theſe (which ſeem to me the only means) if you can contrive how to make a ſhort diſpatch, and give me ſufficient aſſurance of it upon equall terms before we begin, I ſhall conſent to write. But to write without ſuch aſſurance I cannot for theſe reaſons.
+<list>
+                     <item>1 I have ground enough to be confident that it will never be ended while you and I both live, except either be convinced, which I diſcern to be unlikely; Though for my own part, I reſolve to yeeld to the moſt diſgraced truth, and to ſearch as impartially as I can; yet I am ſomewhat confident that you are in an errour, and you are more confident that you are not, and ſo we are likely to remain.</item>
+                     <item>2 If I ſhould waſte ſo much time on ſo ſmall a thing (compara<g ref="char:EOLhyphen"/>tively) it would wound my conſcience.</item>
+                     <item>3 Eſpecially being ignorant in ſo many far greater, which I am bound to ſtudy in the firſt place.</item>
+                     <item>4 I am engaged in more work already then I am able to goe through; having one Treatiſe in the Preſs, whereof part is unfiniſhed, and another or two at leaſt under hand: beſides publique preaching which takes up all my time, ſave one day in a week at beſt; which one day I beſtow in the aforeſaid writings: and beſides the practice of phyſick for the poor, which their neceſſity compels me to, and which taketh up very much time.</item>
+                     <item>5 The weakneſs of my body is ſuch, that I am able to ſtudy but 2 or 3 hours in a day, beſides my ſick dayes when I can do nothing.</item>
+                     <item>6 I have ſweeter and more pleaſing work for my thoughts; I would not ſteep them in ſo bitter a ſubject as this unpleaſing controverſie, and ſo loſe the reſt of the comforts of my life for a world.</item>
+                     <item>7 If you and I ſhould write many tedious volums, the people would be no more able to diſcern the truth, then they are from what is already written.</item>
+                     <item>8 I am afraid of giving my people ſo ill a preſident as to ſtrain at a Gnat and ſwallow a Camel; to waſte their precious time and thoughts and ſpeeches on ſuch a queſtion, while a 100, each of incomparable greater moment, are unſtudyed and unknown.—Now to your Letter. Whereas you think either writing, or referring you to ſome printed book, will be the moſt expedite and ſure way, I wonder how you can force your ſelf to think ſo! It is many years ſince you begun your ſelf to write with Mr. <hi>Marſhall,</hi> Mr. <hi>Blake, &amp;c.</hi> and you have not yet expedited the buſineſs: no man yeildeth, nor doe you ſee me any nearer an end then when you begun, except wearineſs cauſe any partie to give over.</item>
+                     <item>9 Beſides, your body is healthfuller; I diſcern you can better ſit at your ſtudy 8 hours, then I can one.</item>
+                     <item>10 And I perceive you content your ſelf more eaſily then your Reader: you marvel that your Books ſatisfie not, and I marvel you ſhould think them ſatisfactory.</item>
+                     <item>11 Ma<g ref="char:EOLhyphen"/>ny people will think that when they can ſay (you have anſwered it) that an argument is overthrown: the vulgar Chriſtians in ſo great a difficulty being little able to diſcern the inſufficiencie or fallacies.</item>
+                     <item>12 And laſtly, I am like to live on earth but a while, and therefore as I have more need of other thoughts, ſo you are like to have the laſt word, which with moſt will give you the conqueſt.</item>
+                  </list>
+               </p>
+               <p>But why you ſhould wiſh me to refer you to a printed argument, I know not, they being all extant in your hands already, and you pretending to anſwer to the ſubſtance of almoſt all. That you ſhould deny an open verball diſpute, I cannot but much won<g ref="char:EOLhyphen"/>der<g ref="char:punc">▪</g> your affairs will ſure give you more leaſure for 2 or 3 hours diſpute, then many
+<pb n="407" facs="tcp:166115:3"/>months writing, and ſo I am ſure will the ſtate of my body. Truly Sir the diſadvan<g ref="char:EOLhyphen"/>tage on my ſide is ſo great, and the advantage on yours, that I ſhould not venture on it, but as urged on for the truths ſake, you being Batchelour of Divinitie of ſo long ſtand<g ref="char:EOLhyphen"/>ing, and I having ſcarcely known an Univerſitie; you being ſo long ſtudied and ver<g ref="char:EOLhyphen"/>ſed in this Controverſie, and have all at your fingers ends, and ſo confident in your Cauſe, that you make light of all that may be ſaid againſt you by all the Divines that are—. If I ſhould refuſe a conference on ſuch advantages, I ſhould think it were almoſt to yeild my Cauſe naught. Sir, of my firſt three offers, if you pleaſe to yeild, I find the people like beſt of preaching, which I leave to your choice, and reſt</p>
+               <closer>
+                  <signed>An unfeigned lover of the Truth and You, <hi>Richard Baxter.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>To the Reverend Mr. <hi>Richard Baxter</hi> Preacher at <hi>Kidderminſter,</hi> theſe preſent.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>SOme of my Neighbours conceived it would be their beſt way to reſolve their doubts about baptiſm, to know what arguments you could bring for Infant-baptiſm, and againſt their being baptized, notwithſtanding the pretended baptiſm they had in Infancie. Whereupon with my privitie came one to you, upon whoſe relation of your anſwer to him, I wrote to you, and upon receit of your Letter to me I think good to let you underſtand that I ſaid not I utterly refuſed open diſpute, but that I affected it not, it being fit for ſchools and not for common Auditories, entered into uſually with animoſities and eagerneſs to obtain a ſuppoſed victory, managed with heat and multitude of words with Anſwers and Replies, not ſo deliberate as were requiſite to ſettle any ones judgment, and uſually miſapprehended by Auditors, who commonly take him to have the better who ſpeaks moſt, ending uſually in ſome wrangling or ſomething like it, followed with miſreports, accompanyed with diſorderly throngings, con<g ref="char:EOLhyphen"/>fuſed noiſe, and many other inconveniencies; in ſo much that except in caſe of betraying truth by declining it, I can hardly bring my ſelf to yeild to it. And whatever you conceive of my advantages, you may if you will, and perhaps doe know that you have ſuch advantage in your ready wit and ſpeech, and the favour and generall acclamation to any thing that is ſaid for the ſuperſtition of Infant-baptiſm, as to bring things ſo about that the event ſhall be crying down truth, and diſgrace of my perſon. Nor have your diſparaging ſpeeches of my Wri<g ref="char:EOLhyphen"/>tings without animadverſions on them communicated to me, or your carriage at, or not long after the receiving of my Letter, encouraged me to hope for all candor from you in this matter.</p>
+               <p>For preaching, ſith it belongs to you to maintain the divine Inſtitution of Infant-baptiſm, I ſhall be willing to examine what you ſay, when you have ſaid what you think good for Infant baptiſm, if I may obtain a copy of your Sermon, which you will own, and if it ſatisfie me I ſhall confeſs it; if not, in a Sermon in the ſame place, or elſe where, I ſhall give a di<g ref="char:EOLhyphen"/>ſtinct and plain anſwer to it.</p>
+               <p>For writing (which I like beſt) I deſire not to put you to any tedious or voluminous way, but that in the moſt compendious way of Syllogiſms, yea, if it may be in one Medium you put the ſtrength of all that you can ſay. For ſhort diſpatch you may being Diſputant or
+<pb n="408" facs="tcp:166115:4"/>Opponent, aſſure your ſelf my anſwer will be as ſhort as your argument will permit, and the more you contract keeping to the point, the more ſatisfactory it will be.</p>
+               <p>If you conceive this point of leſſe moment, others conceive otherwiſe: Though Juſti<g ref="char:EOLhyphen"/>fication, Redemption, &amp;c. be of greater moment, yet not all you diſcourſe about them. If it were, yet this being of frequent practice needs perhaps reſolution before other points that come not into ſo frequent uſe. You ſay in your Aphoriſms, <hi>pag. 149.</hi> the neglect of Sacraments is a breach of the ſecond Commandment. If ſo, how can a godly man ſafely live in neglect of Baptiſm? The enquirie after it is ill judged a ſtraining at a Gnat and ſwal<g ref="char:EOLhyphen"/>lowing a Camel, as our Saviour meant, Mat. <hi>23 24.</hi>
+               </p>
+               <p>In a word, my declining open diſputation doth not make me think my Cauſe naught; but your ſhunning to give us your arguments in writing, whereby we might better judge of them then upon a verball conference, makes me imagine your cauſe is not good, eſpecially conſidering your uſe of indirect Arguments to create prejudice, and your not denyed prejudice, which how it can ſuit with an impartiall examination of truth I do not ſee.</p>
+               <closer>
+                  <signed>Other things, in your Letter to me, I let paſs, and am Yours as is meet <hi>John Tombes.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Bewdley,</hi> 
+                     <date>Sept. <hi>10. 1649.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I Received yours, and therewith from five of your neighbours their deſires of en<g ref="char:EOLhyphen"/>gaging me in this controverſie; you mention many inconveniencies of verball diſpute, moſt of which I acknowledge probable: but the inconveniencies of writing far greater, as I expreſſed to you. If it were among the rude Vulgar, much of that you ſay might fall out: but I have no ſuch deſire to be publique, but that if you like it better, before a competent number of the intelligent, I am content. If you think that I deſire the diſgrace of your perſon, you are leſs free from ſinful cenſoriouſneſs then I took you to be: My diſparaging ſpeeches of your writings being not particu<g ref="char:EOLhyphen"/>larly expreſſed, I am uncapable of underſtanding what you mean. I know not that ever I ſaid more againſt them but that they were in many things to me unſatis<g ref="char:EOLhyphen"/>factory, and my reaſons I was ready to produce: And I pray you how could I chooſe but yield to you, and be of your judgment, if I thought your writings ſound in the main? ſo that you ſeem offended that I do not believe as you, which I cannot yet help, my judgment being not wholly in the power of my will. That you ſhould ſo expect from me animadverſions on your writings, ſeemeth to me exceeding ſtrange: I have given you my reaſons why I am loth by writings to engage in this controverſie at all: much more to begin in a way of Animadverſions. What my carriage was that offended you, as you expreſs not, ſo I know not; and therefore your reproof muſt needs be vain: I asked your meſſenger, who anſwered that he ſaw no miſcarriage,
+<pb n="409" facs="tcp:166115:4"/>except it were my revealing your Letter to three that were preſent, which he con<g ref="char:EOLhyphen"/>feſſeth to be his own fault, who never told me of any deſires of ſecrecie: nor had I reaſon to think of any, it being about ſo publick a buſineſs: and if that do diſcou<g ref="char:EOLhyphen"/>rage your expectations of candor, your charity is not much ſtronger then others, whatever your judgment may be. For my part, that no ſiniſter ends ſhould make me differ from you, you may conjecture by theſe reaſons,
+<list>
+                     <item>1 I am nearer of of your judgment in moſt other Controverſies, that I have ſpoke with you about, then to moſt mens I know, and therefore naturally ſhould be more inclined to value yours in this.</item>
+                     <item>2 I have voluntarily been more prodigal of my reputation in putting out that Pamphlet of Juſtification, which <hi>I</hi> well know was like to blaſt my reputa<g ref="char:EOLhyphen"/>tion with moſt Divines, as containing that which they judge a more dangerous errour then Anti-paedo-baptiſm, and the iſſue hath an<g ref="char:EOLhyphen"/>ſwered my expectation: I am now ſo <note n="*" place="margin">This was when my Apho<g ref="char:EOLhyphen"/>riſms came out firſt, when many angry men were fierce againſt them. But I confeſs ſince that I have ſound as brotherly loving dealing about them as I could deſire, and more then I did expect; and that from the moſt Divines that I have to doe with.</note> hiſſed at by them, that I feel temptation enough to ſchiſm in my diſcontents.</item>
+                     <item>3 I am (as it were) a dying man, and if I ſhould refuſe truth to preſerve my reputation, I were utterly unexcuſable.</item>
+                  </list>
+For the prejudice you mention, I muſt confeſſe I have ſome, not againſt this only, but againſt every thing I judge to be an errour. Nor doe I know how any man can debate any point without ſome prejudice, except where his judgment doth wholly ſuſpend, or hangs in <hi>aequilibrio.</hi> I perceive you yeild not to that way of preaching, as I propounded; nor do you offer me any aſſurance of a ſhort concluſion in writing: but only that your anſwer ſhall be as ſhort as my arguments will permit; as if the Queſtion were al<g ref="char:EOLhyphen"/>ready ſtated betwixt us, and as if there were but one Queſtion to be debated, and I had nothing to object againſt your way, as well as you againſt this, and you were reſolved in all to doe nothing but anſwer. And why is not the buſineſs yet ended be<g ref="char:EOLhyphen"/>tween you and your Antagoniſts, ſo many years ſince begun? In a word Sir, no way pleaſeth me ſo well as writing, if you will find out a way of quick diſpatch, and give me aſſurance of it before we begin. Which if you ſend not in writing, if you pleaſe to appoint a time when I can, I will come to you, that we may both agree of the way, and ſtate the Queſtion.</p>
+               <closer>
+                  <signed>Sir, I am an unfeigned lover of Truth, Peace, and You, (for I know it is ſo meet) <hi>Rich. Baxter.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Kidderm.</hi> 
+                     <date>Sept. 11.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="410" facs="tcp:166115:5"/>
+               <head>To my Reverend and very much valued Friend and Brother, Mr. <hi>Richard Baxter,</hi> Preacher at <hi>Kidderminſter,</hi> theſe preſent.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>TO prevent unneceſſary altercations, I return only this to your laſt Letter. There were ſome of my Neighbours and Auditors that doubting whether by their Infant-baptiſm they did the duty of being baptized into the name of Chriſt, came to me for reſolution; and becauſe of your known juſtifying paedo-baptiſm, your parts, and integrity, they judged it meet before they were baptized, to know your grounds for Paedo-baptiſm, leſt they ſhould be judged raſh; whereupon being informed by me that my exception againſt Paedo-baptiſm is, that it is Will-worſhip for want of divine inſtitution, the only way to ſatisfie them was to prove a divine inſtitution of Paedo-baptiſm, which might be beſt done by a few Syllo<g ref="char:EOLhyphen"/>giſms in writing; which if you pleaſe to gratifie them in, they will examine it thankfully; if not, they will take it as if it were granted that you can ſay no more then others have done in print for Paedobaptiſm, which will be taken to be ſufficiently anſwered till it be ſhewed wherein the anſwers to them are defective. And this is propounded for the ſhorteſt way we can deviſe to come to reſolution. I am very ſorry that you are ſo vexed with mens frowardneſs upon your writing: it was my folly that in my own caſe I laid their oppoſition to me ſo much to heart: <hi>If I may do any thing to aſſiſt you for your eaſe in what we agree, I ſhall be ready as my</hi> time and buſineſs will permit. In the mean time leaving you and your wayes to the Almighties guidance, I remain</p>
+               <closer>
+                  <dateline>
+                     <hi>Bewdley,</hi> 
+                     <date>Sept. <hi>24. 1649.</hi>
+                     </date>
+                  </dateline>
+                  <signed>Your reall Friend and Fellow-ſervant in the Lord, <hi>John Tombes.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I offered you in my laſt (for the avoidance of the inconveniencies which you feared by a publick diſpute) to diſpatch it before ſome ſelect company; or elſe in 2 or 3 Sermons; or (if you would yield to none of this) to write, ſo be it you would firſt aſſure me of a quick diſpatch: (becauſe you have not yet ended with thoſe that you have been debating the Cauſe with theſe many years,) and alſo if we might meet and ſtate the queſtion by conſent. To which end I offered to come over when you were at leaſure, and your Neighbours agreed to ſend me word when was the fitteſt time, becauſe you were much from home. But contrary to my expectation, as if all theſe mo<g ref="char:EOLhyphen"/>tions were unreaſonable, you ſtill inſiſt upon my doing the work which you cut out for me, and that directly in the way that you preſcribe: yea, and you conclude that if I do not this,
+<list>
+                     <item>1 your people will take it for granted, that I can ſay no more for
+<pb n="411" facs="tcp:166115:5"/>Paedobaptiſm then others have done in print.</item>
+                     <item>2. And that they will take that to be ſufficiently anſwered, till it be ſhewed wherein your anſwers are defective.</item>
+                  </list>
+And can you poſſibly think that they have ground ſufficient for either of theſe concluſions. If they are men that will be ſo eaſily deceived, and will take things for granted ſo eaſily and groundleſly, I think it vain for any man to attempt their information, except by teaching them firſt how to argue more rationally: prejudice and mens intereſt in them it ſeems are their guides. But for you that are a Logician, to encourage them to ſuch concluſions, who ſhould teach them only the truth, and the right way of diſ<g ref="char:EOLhyphen"/>covering the truth, ſeems to me a thing to be admired at. I hope they will not judge of all your teaching by this. For the firſt concluſion, I gave you ſuch a multitude of reaſons, why I could not enter upon the tedious endleſs task of writing (and you ex<g ref="char:EOLhyphen"/>cepted not againſt any one of thoſe reaſons) and I offered you ſo many other ſhorter ways, that I leave it to any indifferent man to judge whether you and your people can thence conclude, that I can ſay no more then is ſaid in print already? 2 And how is it poſſible that they can judiciouſly and honeſtly take it for granted that all that is in print is ſufficiently anſwered? 1 When you have not in print anſwered, or medled much with half the books that have been written for Paedobaptiſm? Beſides the many in Latine, Mr. <hi>Cobbet</hi> and many other in Engliſh are unanſwered: Yea, Mr. <hi>Marſhall</hi> that you profeſs to deal with chiefly, is not yet anſwered in print. And if you have done all this ſatisfactorily in M. S. whether ſo many of your people have peruſed it, and peruſed it ſo long, and ſeriouſly, as to be able upon comparing them to paſs a ſo<g ref="char:EOLhyphen"/>lid judgment, that Mr. <hi>Cobbet,</hi> Mr. <hi>Drew,</hi> Mr. <hi>Blake,</hi> &amp;c. are all ſufficiently anſwered by you, you beſt know. Nay, whether the men that were with me are able to try the writings on both ſides, ſo as to paſs ſuch a judgment? I ſeriouſly profeſs Sir, I did peruſe the ſheets which you vouchſafed me the view of, as judiciouſly as I was able, and they did neither ſatisfie me, nor ſtagger me. 2 Nay, your Neighbours did confeſs to me, 1 That they had never read Mr. <hi>Cobbet,</hi> and other Books againſt your judg<g ref="char:EOLhyphen"/>ment. 2 Nor were able to judge by comparing together ſuch tedious writings, whe<g ref="char:EOLhyphen"/>ther you had ſufficiently confuted them or no. And when I demanded how then they could expect any ſatisfaction between your writing and mine: they anſwered that they hoped I would lay down ſome arguments more briefly. Wherefore Sir it is not only my deſire that we ſhould be aſſured of brevitie before we begin: but it was to me the deſire of your people, who confeſs that in ſuch large diſcourſes they are unable to judge. I further propound to you (becauſe you can find out no ſhorter way) I am ſure a ſhorter way then what you inſiſt on: that is, 1 Either to diſpute it in private, before a dozen of each ſide. 2 Or if there be no other way but writing will be ac<g ref="char:EOLhyphen"/>cepted, that you will give me the meeting, and let us write while we are together. Which motions I make not for any advantage againſt you, but only to avoid the inconveniencies of voluminous writing. Should we write ſo large, your people will be as unable to make uſe of it, as they are of what is already written.</p>
+               <closer>
+                  <signed>Sir, I am your unfeigned Friend, and unworthy Fellow-labourer, <hi>Rich. Baxter.</hi>
+                  </signed>
+               </closer>
+               <pb n="412" facs="tcp:166115:6"/>
+               <argument>
+                  <p>After this the buſineſs ſlept long, and I had hoped was quite over, till Mr. <hi>T.</hi> urg<g ref="char:EOLhyphen"/>ing it on the Conſciences of his Hearers, one of them unhappily asked him in pub<g ref="char:EOLhyphen"/>lique, Why he would not diſpute with me, but ſo preſs it on them that could not anſwer him? Whereupon he told them he would diſpute it with me or any man (as they tell me,) which promiſe the people laid hold on, and proſecuted, <hi>&amp; hinc illae achrymae.</hi>
+                  </p>
+               </argument>
+            </div>
+            <div type="letter">
+               <head>For Mr. <hi>Baxter</hi> at <hi>Kidderminſter,</hi> theſe.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>MY Meſſage was this, ſith I intend the next Lords day to proſecute what I have begun in examining the Hypotheſes upon which the Argument from Circumciſion for Infant-baptiſm (which is the Paedo-baptiſts <hi>Achilles</hi>) is built; I was willing to invite you to be a hearer, and if you judged it meet, to oppoſe what you ſhould think good in a Logick way without Rhetorick. That your judgment ſhould be againſt diſputing on the Lords day, ſeems ſtrange, who (as I have been told) would if invited, come to preach about that Controverſie, which I take to be all one with Diſputing. That which concerns your Weakneſſe, is ſufficient to hinder you I confeſs, yet me thinks if you might do it on Munday, you might do it almoſt with the like ſafetie on the Lords day at Evening. I know not how fit it will be to gather a Congregation to hear us on a week day in publick, whereby poor people will be drawn from their work; and the Bayliff being now very ſick, I doubt it will be very diſorderly. Tueſday being a Holiday as they count it, perhaps there will be more of the ruder ſort and diſorder<g ref="char:EOLhyphen"/>ly, and it may carry a ſhew of celebrating it. Thurſday I intend for <hi>Herefordſhire,</hi> and not to return till Saturday come fortnight. Yet if you chooſe to come over either Munday or Tueſday, I ſhall be ready to juſtifie my doctrine openly or privately, by word or writing, as it ſhall be judged convenient.</p>
+               <closer>
+                  <dateline>
+                     <hi>Bewdley,</hi> 
+                     <date>Decem. <hi>27. 1649.</hi>
+                     </date>
+                  </dateline>
+                  <signed>Sir, I am Yours, but much more the Truths, <hi>John Tombes.</hi>
+                  </signed>
+               </closer>
+               <argument>
+                  <p>I have no Copy of mine next before this or next after it; nor is it materiall. But preſently upon this was the Diſpute; and after it I received from him this Letter following.</p>
+               </argument>
+            </div>
+            <div type="letter">
+               <pb n="413" facs="tcp:166115:6"/>
+               <head>For Mr. <hi>Richard Baxter</hi> Preacher at <hi>Kidderminſter,</hi> theſe.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>FOraſmuch as you ſaid that if the Papiſts had as good arguments for their doctrine as thoſe were which you brought on Tueſday laſt for Infant baptiſm, you would be a Papiſt; I earneſtly requeſt you to do me ſo much right or kindneſs as either to write for me out your ſelf your arguments which you conceive ſo ſtrong for Infant-baptiſm, or procure them writ<g ref="char:EOLhyphen"/>ten for me at my charges, that I may examine them, and that you will let me know what you will do in anſwer to this motion, and within what compaſs of time.</p>
+               <closer>
+                  <dateline>
+                     <hi>Bewdly,</hi> 
+                     <date>Jan. <hi>3. 1649.</hi>
+                     </date>
+                  </dateline>
+                  <signed>I am Yours in Chriſt, <hi>John Tombes.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I Perceive you are a man ſo extreamly ſubject to miſtakes, that I have ſmall encou<g ref="char:EOLhyphen"/>ragement to deal with you. I only ſaid (before witneſs enough) that if the Papiſts had as plain expreſs Scripture for their Religion, as that <hi>Deut.</hi> 29. was for proof that all did enter the Covenant there mentioned, I would gladly turn Papiſt; and you moſt unworthily feign me to ſay (if the Papiſts had as good arguments as thoſe were which I brought for Infant-baptiſm) in generall.) For the thing you deſire, 1 you heard what I ſaid. 2 You have not anſwered my reaſons againſt voluminous diſputing: 3 I am perſwaded by ſome to publiſh our Diſpute; but truly I am loth ſo far to diſ<g ref="char:EOLhyphen"/>grace you. But if I do, you will ſee my arguments. 4 Seeing you have moſt unwor<g ref="char:EOLhyphen"/>thily and unbrotherly traduced me four times in publick, whereof three in pulpit, I deſire you to diſpute theſe four points firſt. 1 Whether any truth muſt be ſuſpended for peace (which Mr. <hi>Davis</hi> ſaith you bid him tell me was an untruth.) 2 Whether the Magiſtrate be under Chriſt the Mediator, (yea as Mediator) which you ſaid was of dangerous conſequence (as I hear.) 3 Whether the Covenant be made to any but the elect (for which you brought my book clean contrary to my whole ſcope.) 4 Whe<g ref="char:EOLhyphen"/>ther I dealt unbrotherly and unchriſtianly in not animadverting on your papers. Sir I never knew ſober Miniſter uſe ſuch kind of preaching to traduce his brethren, and ſtuff Sermons with mens names without once ſpeaking or ſending to them firſt about it privately. I have a great deſire to diſpute the foreſaid Points with you if you pleaſe in writing <hi>ex tempore</hi> together, and ſhall take your yielding thereto as a great favour, and yet your flat duty, having firſt accuſed me.</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>Jan.</hi> 3. 1649.</date>
+                  </dateline>
+                  <salute>Sir,</salute>
+                  <signed>I am Your Wel-willer, <hi>Richard Baxter.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="414" facs="tcp:166115:7"/>
+               <head>For the Reverend M<hi rend="sup">r</hi>. <hi>Richard Baxter</hi> Preacher at <hi>Kidderminſter,</hi> theſe.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>MY miſtake of your ſpeech being communicated to your ſelf, might be as well excuſed as your miſreciting in your papers the ſame ſpeech in my paper written before you. In your ſaying that I have moſt unworthily and unbrotherly, traduced you four times in publick, whereof three in Pulpit, is no truth. After ſo many told me of your by-ſlings at me, I was willing Mr. <hi>Davis</hi> ſhould tell you no truth is ſo to be ſuſpended as to be loſt for peace. What I ſaid about your tenet concerning Magiſtrates in your <hi>Aphoriſm pag. 273.</hi> is no traducing you, if it is a truth. And I ſhall ſo take it till you have anſwered Mr. <hi>Gilleſpy Aarons Rod bloſſ. Book 2. ch. 7.</hi> What I ſaid about your poſition, was but the reciting of your own words in your <hi>Appendix p. 43.</hi> It [the Covenant] is made to the Elect only. When it was given out you would come and reverſe all I ſaid, I ſpake to this effect. If you could ſay more then others, you dealt not ſo brotherly with me as I hoped, having deſired from you animadverſions on ſome of my papers, and you were earneſtly preſſed to make known your arguments before I began to preach of the argument, which I thought in charitie you would have done to prevent my being miſled, and miſleading others. Perhaps it was true which was ſaid, that you would hide your weapon till you were to uſe it. But in this caſe it was no good rule <hi>virtus an dolus?</hi> The duſt you have raiſed, I nothing doubt will be wiped away. What ſpirit you were carryed with, appears by the carrying of things, better then by words. My way of preaching, however you judge, befitted a ſober man. In hand<g ref="char:EOLhyphen"/>ling the queſtion as I was to do, it was meet I ſhould alledge mens words and quote the places, their books being in print. It had been ſcarce the part of a ſober man to trouble him<g ref="char:EOLhyphen"/>ſelf to ſend privately to every perſon before I named them. In a word, I acknowledge I have heard many precious truths from you, and received ſundry kindneſſes for which <hi>I</hi> thank you. <hi>I</hi> pray you take it as an office of love from me to tell you, my fears are that you <hi>go in a ſlippery path, if you do as your friends imagine, oppoſe the preſent government, and diſſenting brethren, likely out of miſtaken zeal, and others provocation who will abuſe you for their own ends. I</hi> am no further willing to word it with you about theſe perſonall ex<g ref="char:EOLhyphen"/>ceptions, if <hi>I</hi> may have your arguments from your ſelf, we ſhall both be the freer from mi<g ref="char:EOLhyphen"/>ſtakes, and truth will the ſooner appear, which is the endeavour of</p>
+               <closer>
+                  <dateline>
+                     <hi>Bewdley,</hi> 
+                     <date>Jan. <hi>3. 1649.</hi>
+                     </date>
+                  </dateline>
+                  <signed>Your Friend and Brother in Chriſt, <hi>John Tombes.</hi>
+                  </signed>
+               </closer>
+               <argument>
+                  <p>This Letter I did not, nor durſt not anſwer, partly becauſe it had in it ſo many un<g ref="char:EOLhyphen"/>truths, that I knew the very naming them would tend to diſſention: And partly becauſe his ſecret friendly threatning in the end could not be anſwered without many incon<g ref="char:EOLhyphen"/>veniencies: Eſpecially I felt my ſpirit too prone to have expreſſed a contempt of his threatnings, that I thought it my duty to repreſs it. It ſeemed a ſtrange Diverſion to me to turn from a diſpute of Infant-baptiſm ſo ſuddenly to State matters; And to intimate my oppoſing the preſent Government, becauſe my friends imagine it; and
+<pb n="415" facs="tcp:166115:7"/>ſo to join together the preſent Government and Diſſenting Brethren, as if they were conjunct; and it were as dangerous to diſpute againſt Anabaptiſts, as to oppoſe the Government! and to tell me of my going in a ſlippery path, as if threatning muſt be the Argument to take me off when others failed! Perhaps he will ſay, he meant in re<g ref="char:EOLhyphen"/>gard of danger from God immediately; but I do not think any impartial Reader will ſo interpret hie words, as to the imaginary oppoſing the preſent Government.</p>
+                  <p>After this, when all was calmed, and I remembred the weakneſs of his anſwers, I had ſtrong hopes of winning him by a private Conference: Whereupon I wrote to him this following: But all proved vain.</p>
+               </argument>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I Acknowledge it a hard thing to deny ſelf ſo much as to yield to convincing argu<g ref="char:EOLhyphen"/>ments after ſo deep ingagement for errour as yours. And I perceive in publick your credit ſtands in the way. I intreat you therefore to condiſcend to a ſecret conference between you and me alone, where we may take freedome of ſpeech. Which motion I therefore make, that if there be any hope, that you may be recovered to that which I am now more confident then ever, is the truth, and to do the Church as much ſervice as you do hurt, that your name may not be found hereafter among the deſperate ene<g ref="char:EOLhyphen"/>mies of the truth and peace; how happy were I if I might ſee you ſo recovered: Sir I pray deny not this motion (which I thought fit to propound before I reply to your laſt Letters) and which proceedeth only from a longing deſire after your own and the Churches Welfare in</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>Jan.</hi> 24. 1649.</date>
+                  </dateline>
+                  <signed>Yours in unfeigned Chriſtian love, <hi>Rich. Baxter.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>For Mr. <hi>Richard Baxter</hi> Preacher at <hi>Kidderminſter,</hi> theſe.</head>
+               <opener>
+                  <salute>Mr. Baxter.</salute>
+               </opener>
+               <p>IF I may obtain no more from you, yet let me requeſt you to give me under your own hand the Reaſons you gave why the Expoſition given by me of <hi>1 Cor. 7.14.</hi> cannot be right. I remain</p>
+               <closer>
+                  <signed>Yours in the Lord, <hi>John Tombes.</hi>
+                  </signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
